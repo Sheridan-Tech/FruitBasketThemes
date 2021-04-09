@@ -1,17 +1,29 @@
 # FruitBasketThemes
-_Syntax Highlighting for various IDEs inspired by Monokai, but filled with Material Design colors._
+_Syntax Highlighting for various IDEs loosely inspired by Monokai, filled with Material Design colors._
 ___
 ## Colors
 
-| Palette   |Hex Code|
-| ------- | ----------- |
-| Background |#272822 |#272822|
-| Foreground |#F8F8F2 |#F8F8F2|
-| Comment   |#75715E |#75715E|
-| Red       |#F92672 |#F92672|
-| Orange    |#FD971F |#FD971F|
-| LightOrange |#E69F66|#E69F66|
-| Yellow    |#E6DB74 |#E6DB74|
-| Green     |#A6E22E |#A6E22E|
-| Blue      |#66D9EF |#66D9EF|
-| Purple    |#AE81FF |#AE81FF|
+| Palette | Inspiration | Hex Code | Use |
+| ----------- | ----------- | ----------- | ----------- |
+| Black |  |#272822 | Background |
+| White | |#F8F8F2 | Foreground Text |
+| Teal |    | #006464 | Selection Background |
+| Grey  | |#75715E | Comments |
+| Red   | Strawberry    |#F92672 | Identifiers, Numbers |
+| Dark Red   | Apple    |#a40000 | Errors |
+| Orange | Orange   |#FD971F | |
+| Yellow | Banana  |#ffe135 | |
+| Green  | Lime   |#A6E22E | Functions, Methods |
+| Blue   | Sky  |#66D9EF | Strings |
+| Dark Blue |  Blueberry  | |  |
+| Purple | Grape   |#AE81FF | Compiler |
+| Deep Purple |    | |  |
+
+
+
+<!-- 
+WIP 4-9-21
+
+purples indigo violet
+4A148C
+602C50 -->
